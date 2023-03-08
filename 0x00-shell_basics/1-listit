@@ -1,2 +1,2 @@
-0x00-shell_basics README.md
-pwd
+#!/bin/bash
+ls
