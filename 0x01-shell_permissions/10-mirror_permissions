@@ -1,2 +1,2 @@
 #!/bin/bash
-ehmod 356 olleh
+chmod --reference-olleh hello
