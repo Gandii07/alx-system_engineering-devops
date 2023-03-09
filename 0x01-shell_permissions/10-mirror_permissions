@@ -1,2 +1,2 @@
 #!/bin/bash
-ehmod --reference-olleh hello
+ehmod 356 olleh
